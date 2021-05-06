@@ -11,3 +11,4 @@ The quality of predictions is evaluated by the metric F1score: https://en.wikipe
 
 ## Results
 Despite the fact that the final result was less than 70 percent, it was one of the best results that could be obtained on this dataset during testing.
+Unfortunately I couldn't find the time to participate in the final https://digital.tatarstan.ru/index.htm/news/1836680.htm
