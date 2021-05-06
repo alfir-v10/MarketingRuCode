@@ -7,7 +7,6 @@ To optimize the advertising campaign process, you were asked to create a machine
 There is a training sample train.csv with information about the bank's customers who were offered the service of opening a deposit at RuCodeBank by phone. 
 The target variable 'contact_office' shows whether the customer has agreed to the offered service or not. 
 You need to use machine learning for all the people in the test.csv sample to predict whether the customer will buy the service or not.
-Data: https://drive.google.com/drive/folders/1knZCSJ_XpSSQjN-5R2tBUuwRV6Br9xKS?usp=sharing
 The quality of predictions is evaluated by the metric F1score: https://en.wikipedia.org/wiki/F1_score.
 
 ## Results
